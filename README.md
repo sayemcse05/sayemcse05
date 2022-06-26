@@ -1,4 +1,4 @@
-<img src= "[https://www.facebook.com/md.abusayem.37/](https://www.facebook.com/photo/?fbid=6734645059909347&set=a.6734645713242615)" />
+<img src= "https://www.facebook.com/photo/?fbid=6734645059909347&set=a.6734645713242615" />
 <h1 align="center">Hi 👋, I'm Md.Abu Sayem Chowdhury</h1>
 <h3 align="center">Android Developer</h3>
 
