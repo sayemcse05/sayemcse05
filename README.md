@@ -1,5 +1,5 @@
 ### Hi there 👋,  i'm Md.Abu Sayem Chowdhury
-#### Android Developer
+#### Mobile Application Developer Android 
 ![Android Developer](https://scontent.fdac20-1.fna.fbcdn.net/v/t39.30808-6/260477309_6734645043242682_7427006560301804187_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeF16NzQ52qhQg-HBTS8JrZujT6yQc-umxGNPrJBz66bEQxJiwRViONEbgHdJOrFe6gd5Q6oRahC8iC_u2SVcBGd&_nc_ohc=Rnv-seVdBp4AX-rFha4&_nc_ht=scontent.fdac20-1.fna&oh=00_AT-YZkqLbw3KiyarYLc13kqVPFhzQFCo4MsjcoBZ8c-8OQ&oe=62BE3878)
 
 I am a Native Android Developer.I have good knowledge of Fragmentation,Navigation,MVVM,Data Binding,Coroutines,Live Data,Retrofit2,Room library & Glide library.I have solved on different problem sites.
